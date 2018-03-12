@@ -3,4 +3,4 @@
 
 ## Module 1
 
-* Hashketball Review
+* [Hashketball Review](https://youtu.be/9Z1lSnvoPEo) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/01-hashketball-review)
