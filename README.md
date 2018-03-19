@@ -5,3 +5,7 @@
 
 1. [Hashketball Review](https://youtu.be/9Z1lSnvoPEo) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/01-hashketball-review)
 2. [Hashes & The Internet](https://youtu.be/qkhR_lZ9MAY) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/02-hashes-and-the-internet)
+3. [Intro to Object-Oriented Programming](https://youtu.be/TGBECJY27UQ) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/03-intro-oo)
+4. [Inheritance]() | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/04-inheritance)
+5. OO Relationships: One to Many) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/05-oo-relations-one-to-many)
+6. OO Relationships: Many to Many Review | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/06-relationships-again)
