@@ -12,4 +12,4 @@
 7. SQL Review | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/07-sql-review)
 8. [Bridging Ruby & SQL](https://youtu.be/NFNHafRShVM) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/08-bridging-ruby-and-sql)
 9. [ActiveRecord Basics](https://www.youtube.com/edit?o=U&video_id=4w9VdMT07yM) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/09-active-record)
-10. [ActiveRecord Relationships]() | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/10-active-record-relations)
+10. [ActiveRecord Relationships](https://www.youtube.com/watch?v=-aE_CiEMz6A&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/10-active-record-relations)
