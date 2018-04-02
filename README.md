@@ -14,3 +14,7 @@
 9. [ActiveRecord Basics](https://www.youtube.com/edit?o=U&video_id=4w9VdMT07yM) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/09-active-record)
 10. [ActiveRecord Relationships](https://www.youtube.com/watch?v=-aE_CiEMz6A&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/10-active-record-relations)
 11. [RSpec & Test-Driven Development](https://youtu.be/j71EprlCDqE) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/12-intro-tdd)
+
+## Module 2
+1. [Rack & The Internet](https://youtu.be/RnXyT4rlnmk) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/13-rack-internet-intro)
+2. [Sinatra & MVC](https://youtu.be/BhmwEJKVUfc) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/14-sinatra-mvc/watchstore)
