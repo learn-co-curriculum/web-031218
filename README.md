@@ -18,3 +18,4 @@
 ## Module 2
 1. [Rack & The Internet](https://youtu.be/RnXyT4rlnmk) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/13-rack-internet-intro)
 2. [Sinatra & MVC](https://youtu.be/BhmwEJKVUfc) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/14-sinatra-mvc/watchstore)
+3. [Sinatra Forms](https://youtu.be/UZhXMrv_QPA) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/15-sinatra-forms/badreads)
