@@ -18,6 +18,6 @@
 ## Module 2
 1. [Rack & The Internet](https://youtu.be/RnXyT4rlnmk) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/13-rack-internet-intro)
 2. [Sinatra & MVC](https://youtu.be/BhmwEJKVUfc) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/14-sinatra-mvc/watchstore)
-3. RESTful Routing | [Slides](https://docs.google.com/presentation/d/1OsGJpJrUETXaKXL1_J8Ch3yQx5IpbbLp1Oj66fs37Vk/edit?usp=sharing)
+3. [RESTful Routing](https://youtu.be/WjMqRhIfOko) | [Slides](https://docs.google.com/presentation/d/1OsGJpJrUETXaKXL1_J8Ch3yQx5IpbbLp1Oj66fs37Vk/edit?usp=sharing)
 4. [Sinatra Forms](https://youtu.be/UZhXMrv_QPA) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/15-sinatra-forms/badreads)
 5. [Sinatra Forms with Relationships](https://youtu.be/qpHM-ST6BiI) | [Part 2](https://youtu.be/PXt-EIVSZF4) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/16-sinatra-relationships/badreads)
