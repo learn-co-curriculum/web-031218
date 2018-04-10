@@ -24,4 +24,4 @@
 5. [Sinatra Forms with Relationships](https://youtu.be/qpHM-ST6BiI) | [Part 2](https://youtu.be/PXt-EIVSZF4) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/16-sinatra-relationships/badreads)
 6. [Rails Intro](https://youtu.be/wO2nNOiFGDs) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/17-rails/bagel_shop)
 7. [Rails Forms & Validations](https://www.youtube.com/watch?v=2WU5Gm4BDD0) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/18-rails-forms-validations/smoothieshop)
-8. [Rails Forms w/Associations] | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/19-rails-associations/travel_app)
+8. [Rails Forms w/Associations](https://www.youtube.com/watch?v=68HP6d2P3y0) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/19-rails-associations/travel_app)
