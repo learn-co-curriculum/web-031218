@@ -27,3 +27,6 @@
 8. [Rails Forms w/Associations](https://www.youtube.com/watch?v=68HP6d2P3y0) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/19-rails-associations/travel_app)
 9. [Rails Forms w/Associations Part 2](https://www.youtube.com/watch?v=Ai2rG4GfxY8) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/20-rails-associations-2/travel_app)
 10. [Rails Auth](https://youtu.be/FswONDodIJ4) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/21-rails-auth/authapp)
+
+## Module 3
+1. [Intro to JavaScript](https://youtu.be/EfxER9ar4hk) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/22-intro-js)
