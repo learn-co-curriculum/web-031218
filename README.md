@@ -31,5 +31,5 @@
 ## Module 3
 1. [Intro to JavaScript](https://youtu.be/EfxER9ar4hk) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/22-intro-js)
 2. [Functional Programming](http://youtu.be/7G5LOToBUP4)
-3. [OO in JS]() _video coming soon!_
+3. OO in JS  _video coming soon!_
 4. [This & Bind/Call/Apply](https://youtu.be/vqCMW6JEHPg) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/23-this)
