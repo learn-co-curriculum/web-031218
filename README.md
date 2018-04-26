@@ -33,3 +33,5 @@
 2. [Functional Programming](http://youtu.be/7G5LOToBUP4)
 3. OO in JS  _video coming soon!_
 4. [This & Bind/Call/Apply](https://youtu.be/vqCMW6JEHPg) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/23-this)
+5. [The DOM](https://youtu.be/HdIsiQOJDmM) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/24-dom)
+
