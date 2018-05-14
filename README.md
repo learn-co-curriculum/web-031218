@@ -36,3 +36,6 @@
 5. [The DOM](https://youtu.be/HdIsiQOJDmM) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/24-dom)
 6. Events _video coming!_
 7. [Fetch](https://youtu.be/CRYHyIbpy-w) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/25-fetch)
+
+## Module 4
+1. [Intro to React](https://youtu.be/yxqPeBNcxi8) | [Part 2](https://youtu.be/7HRZDbKTGy4) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/29-intro-to-react)
