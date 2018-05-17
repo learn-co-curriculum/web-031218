@@ -42,4 +42,4 @@
 2. [JSX, Props, and State](https://youtu.be/mOpRlXEPAks) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/30-jsx-props-and-state)
 3. [Event Handlers](https://www.youtube.com/watch?v=pyGYtLVoUt8)
 4. [Lifting up State](https://www.youtube.com/watch?v=9syUXhc8_BQ)
-5. [Forms](https://www.youtube.com/watch?v=tuc4YP2rC6A) | [Code (for this and the preceding two)](https://github.com/learn-co-students/nyc-web-031218/tree/master/32-react-lightswitch
+5. [Forms](https://www.youtube.com/watch?v=tuc4YP2rC6A) | [Code (for this and the preceding two) ](https://github.com/learn-co-students/nyc-web-031218/tree/master/32-react-lightswitch
