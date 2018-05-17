@@ -40,3 +40,6 @@
 ## Module 4
 1. [Intro to React](https://youtu.be/yxqPeBNcxi8) | [Part 2](https://youtu.be/7HRZDbKTGy4) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/29-intro-to-react)
 2. [JSX, Props, and State](https://youtu.be/mOpRlXEPAks) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/30-jsx-props-and-state)
+3. [Event Handlers](https://www.youtube.com/watch?v=pyGYtLVoUt8)
+4. [Lifting up State](https://www.youtube.com/watch?v=9syUXhc8_BQ)
+5. [Forms](https://www.youtube.com/watch?v=tuc4YP2rC6A)
