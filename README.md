@@ -43,3 +43,4 @@
 3. [Event Handlers](https://www.youtube.com/watch?v=pyGYtLVoUt8)
 4. [Lifting up State](https://www.youtube.com/watch?v=9syUXhc8_BQ)
 5. [Forms](https://www.youtube.com/watch?v=tuc4YP2rC6A) | [Code (for this and the preceding two)](https://github.com/learn-co-students/nyc-web-031218/tree/master/32-react-lightswitch)
+6. [Webpack, Babel, create-react-app](https://youtu.be/NI0ndDsr9hY) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/34-webpack-babel-create-react-app)
