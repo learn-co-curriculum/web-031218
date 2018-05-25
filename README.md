@@ -45,3 +45,5 @@
 5. [Forms](https://www.youtube.com/watch?v=tuc4YP2rC6A) | [Code (for this and the preceding two)](https://github.com/learn-co-students/nyc-web-031218/tree/master/32-react-lightswitch)
 6. [Webpack, Babel, create-react-app](https://youtu.be/NI0ndDsr9hY) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/34-webpack-babel-create-react-app)
 7. [React Router](https://www.youtube.com/watch?v=zXqL1ULz1xg) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/35-spice-force-five)
+8. Auth I (backend)
+9. [Auth II (frontend)](https://youtu.be/VPdKRIUzE5Y) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/37-auth-frontend/auth)
