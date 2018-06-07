@@ -47,6 +47,7 @@
 7. [React Router](https://www.youtube.com/watch?v=zXqL1ULz1xg) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/35-spice-force-five)
 8. [Auth I (backend)](https://www.youtube.com/watch?v=kUrFcrAqb7A) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/36-auth-backend)
 9. [Auth II (frontend)](https://youtu.be/VPdKRIUzE5Y) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/37-auth-frontend/auth)
+10. [HOCs](https://www.youtube.com/watch?v=aZ2LsY4ce2M) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/38-HOCs)
 
 ## Module 5
 1. [Intro to Redux](https://www.youtube.com/watch?v=5bZlrzP_wnY) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/39-intro-redux)  
