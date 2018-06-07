@@ -49,7 +49,7 @@
 9. [Auth II (frontend)](https://youtu.be/VPdKRIUzE5Y) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/37-auth-frontend/auth)
 
 ## Module 5
-1. [Intro to Redux](https://www.youtube.com/watch?v=5bZlrzP_wnY)
-2. [React + Redux](https://www.youtube.com/watch?v=554IVg_Czno)
+1. [Intro to Redux](https://www.youtube.com/watch?v=5bZlrzP_wnY) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/39-intro-redux)  
+2. [React + Redux](https://www.youtube.com/watch?v=554IVg_Czno) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/39-point-5-react-redux)
 3. [Redux: Combine Reducers and BindActionCreators](https://youtu.be/rk3SCV_5fWk) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/40-redux-combine-reducers-and-bindactioncreators)
 4. [Redux Thunk](https://youtu.be/TzHgkCRFs8Y) | [Code](https://github.com/learn-co-students/nyc-web-031218/tree/master/41-redux-thunk)
